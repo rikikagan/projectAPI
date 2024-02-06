@@ -1,0 +1,17 @@
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.deps.json
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.pdb
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.AssemblyInfo.cs
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\refint\Subscriber.CORE.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.pdb
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\ref\Subscriber.CORE.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.runtimeconfig.json
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.Data.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.Data.pdb
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.CopyComplete
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.genruntimeconfig.cache
